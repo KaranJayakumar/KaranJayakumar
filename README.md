@@ -2,7 +2,7 @@
 
 I'm a software engineer who loves startups and building products end-to-end.
 
-I enjoy owning every part of the customer lifecycle — from the first sales conversation, to onboarding, product decisions, engineering, support, and everything in between. I've been known to jump on sales calls for fun, help close technical follow-ups, and obsess over how users experience what we build.
+I enjoy owning every part of the customer lifecycle, from the first sales conversation, to onboarding, product decisions, engineering, support, and everything in between. I've been known to jump on sales calls for fun, help close technical follow-ups, and obsess over how users experience what we build.
 
 Currently building **Remember** — an app helping you keep the people around you closer in your head.
 
