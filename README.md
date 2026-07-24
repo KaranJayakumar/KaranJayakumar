@@ -7,7 +7,7 @@ I enjoy owning every part of the customer lifecycle, from the first sales conver
 Currently building **Remember** : an app helping you remember more about the people you care about.
 
 Previously built:
-- **Heard** — a music sharing platform I was passionate about.
-- **Messager** — an experiment exploring real-time communication with WebSockets.
+- **Heard** : a music sharing platform I was passionate about.
+- **Messager** : an experiment exploring real-time communication with WebSockets.
 
 Long term goal: build something people genuinely love using.
