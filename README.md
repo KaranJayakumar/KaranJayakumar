@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey, I'm Karan 👋
 
-<!--
-**KaranJayakumar/KaranJayakumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer who loves startups and building products end-to-end.
 
-Here are some ideas to get you started:
+I enjoy owning every part of the customer lifecycle — from the first sales conversation, to onboarding, product decisions, engineering, support, and everything in between. I've been known to jump on sales calls for fun, help close technical follow-ups, and obsess over how users experience what we build.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building **Remember** — an app helping you keep the people around you closer in your head.
+
+Previously built:
+- 🎵 **Heard** — a music sharing platform I was passionate about.
+- 💬 **Messager** — an experiment exploring real-time communication with WebSockets.
+
+Long term goal: build something people genuinely love using.
